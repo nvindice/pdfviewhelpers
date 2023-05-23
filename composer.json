@@ -1,5 +1,5 @@
 {
-	"name": "nvindice/pdfviewhelpers",
+	"name": "bithost-gmbh/pdfviewhelpers",
 	"type": "typo3-cms-extension",
 	"license": "GPL-3.0-or-later",
 	"description": "This is a TYPO3 CMS extension that provides various Fluid ViewHelpers to generate PDF documents.",
