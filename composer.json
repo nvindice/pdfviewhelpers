@@ -27,8 +27,7 @@
 	"autoload": {
 		"psr-4": {
 			"Bithost\\Pdfviewhelpers\\": "Classes"
-		},
-		"classmap": ["Resources/Private/PHP/tcpdf/", "Resources/Private/PHP/fpdi/src/"]
+		}
 	},
 	"autoload-dev": {
 		"psr-4": {
